@@ -1,0 +1,19 @@
+#background {
+  background-color: #879ecf;
+  padding: 50px 0;
+}
+
+#container {
+  width: clamp(200px, 85vw, 1250px);
+  margin: auto;
+
+  > h2 {
+    font-family: "Public Sans";
+    font-weight: 700;
+    font-size: 64px;
+    color: white;
+    line-height: 1.5ch;
+    letter-spacing: -0.05ch;
+    margin-bottom: 30px;
+  }
+}
