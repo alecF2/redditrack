@@ -5,3 +5,5 @@ An attempt at a web app that allows users to track Reddit posts from any subredd
 Uses snoowrap to access the Reddit API.
 
 Using Next.js on the front-end. Combining Next.js built-in API pages with Apollo Server Micro to utilize GraphQL on the back-end.
+
+Firebase for login and authentication. Trying out the new v9 beta SDK.
